@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cursor
+.cursor/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
+
