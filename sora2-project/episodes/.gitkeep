@@ -1,0 +1,15 @@
+# Episode Outputs
+# 每集输出目录
+#
+# 结构:
+# episodes/
+# ├── episode-01/
+# │   ├── metadata.md      # 本集使用的角色/场景/变体
+# │   ├── storyboard.md    # 分镜脚本
+# │   └── prompts/         # Sora prompts
+# │       ├── scene-01/
+# │       │   ├── shot-01.txt
+# │       │   └── ...
+# │       └── ...
+# ├── episode-02/
+# └── ...

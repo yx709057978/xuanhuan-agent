@@ -1,0 +1,8 @@
+# Character Visual Archives
+# 角色视觉档案存放目录
+# 
+# 文件命名: [角色名拼音].md
+# 示例: chen-shiyi.md, wu-suanzi.md
+#
+# 档案结构: 固定特征 + 变体
+# 详见: .agent/skills/character-visual-bible/references/character-template.md

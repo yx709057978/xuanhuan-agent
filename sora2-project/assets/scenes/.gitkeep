@@ -1,0 +1,8 @@
+# Scene Visual Archives
+# 场景视觉档案存放目录
+#
+# 文件命名: [场景名拼音].md
+# 示例: qingyun-gate.md, refining-room.md
+#
+# 档案结构: 固定元素 + 时间/天气变体
+# 详见: .agent/skills/scene-environment-library/references/scene-template.md
